@@ -1,0 +1,7 @@
+G:\U3D_Server\GameServer\Protocols\bin\Debug\Protocols.dll
+G:\U3D_Server\GameServer\Protocols\bin\Debug\Protocols.pdb
+G:\U3D_Server\GameServer\Protocols\bin\Debug\WZSocket.dll
+G:\U3D_Client\DarkGod\Assets\NetLib\Protocols.dll
+G:\U3D_Client\DarkGod\Assets\NetLib\Protocols.pdb
+G:\U3D_Server\GameServer\Protocols\obj\Debug\Protocols.dll
+G:\U3D_Server\GameServer\Protocols\obj\Debug\Protocols.pdb

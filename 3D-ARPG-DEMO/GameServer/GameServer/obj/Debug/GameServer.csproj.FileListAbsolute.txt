@@ -1,0 +1,10 @@
+G:\U3D_Server\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+G:\U3D_Server\GameServer\GameServer\bin\Debug\GameServer.exe.config
+G:\U3D_Server\GameServer\GameServer\bin\Debug\GameServer.exe
+G:\U3D_Server\GameServer\GameServer\bin\Debug\GameServer.pdb
+G:\U3D_Server\GameServer\GameServer\bin\Debug\Protocols.dll
+G:\U3D_Server\GameServer\GameServer\bin\Debug\WZSocket.dll
+G:\U3D_Server\GameServer\GameServer\bin\Debug\Protocols.pdb
+G:\U3D_Server\GameServer\GameServer\obj\Debug\GameServer.exe
+G:\U3D_Server\GameServer\GameServer\obj\Debug\GameServer.pdb
+G:\U3D_Server\GameServer\GameServer\bin\Debug\MySql.Data.dll

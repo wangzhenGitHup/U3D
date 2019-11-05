@@ -1,0 +1,4 @@
+G:\U3D_Server\WZSocket\bin\Release\WZSocket.dll
+G:\U3D_Server\WZSocket\bin\Release\WZSocket.pdb
+G:\U3D_Server\WZSocket\obj\Release\WZSocket.dll
+G:\U3D_Server\WZSocket\obj\Release\WZSocket.pdb

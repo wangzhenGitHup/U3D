@@ -1,0 +1,7 @@
+G:\UnityProjects\UnityClient\Assets\WZSocket.dll
+G:\UnityProjects\UnityClient\Assets\WZSocket.pdb
+G:\U3D_Server\WZSocket\obj\Debug\WZSocket.dll
+G:\U3D_Server\WZSocket\obj\Debug\WZSocket.pdb
+G:\U3D_Server\WZSocket\obj\Debug\WZSocket.csprojResolveAssemblyReference.cache
+G:\U3D_Server\WZSocket\bin\WZSocket.dll
+G:\U3D_Server\WZSocket\bin\WZSocket.pdb
